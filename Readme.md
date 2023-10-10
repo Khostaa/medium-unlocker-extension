@@ -1,0 +1,1 @@
+This extension is currently being developed. however, it can be used to parse website as its 'version 1.1' is released now.
