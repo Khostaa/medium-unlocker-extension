@@ -13,4 +13,4 @@
 1. Pin the extension for easy access.
 2. while you're on premium article tab, select `parse` button on extension.
 3. Enjoy reading!
-[EOF]
+
